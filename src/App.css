@@ -1,0 +1,10 @@
+/* Adicione isso ao seu arquivo CSS */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 0px; /* Remove a barra de rolagem vertical */
+  height: 0px; /* Remove a barra de rolagem horizontal */
+}
+
+.custom-scrollbar {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
