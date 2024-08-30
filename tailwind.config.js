@@ -12,6 +12,7 @@ export default {
       label: '#3A536B',
       span: '#7B96B2',
       post: '#112131',
+      red: '#FF0000',
     },
     fontFamily: {
       coda: ['Coda', 'sans-serif'],
